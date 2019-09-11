@@ -1,0 +1,15 @@
+{
+    "compilerOptions":{
+        "lib": [
+            "dom",
+            "es2017"
+          ],
+        "target": "es5",
+        // "noUnusedLocals": true,
+        // "noUnusedParameters": true,
+        "sourceMap": true,
+        "outDir": "build",
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true
+    }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "redisInAction",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "zyh <13105027620@163.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/redis": "^2.8.13",
+    "redis": "^2.8.0"
+  },
+  "scripts": {
+    "start": "ts-node-dev app.ts"
+  }
+}
